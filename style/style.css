@@ -963,12 +963,6 @@ body {
   margin-top: 15px;
 }
 
-.drinks {
-  background-image: url("../public/webp/background1.webp");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
 .drinks__title {
   font-family: "Inter Bold";
   font-size: 45px;
